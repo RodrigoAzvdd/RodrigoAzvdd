@@ -1,9 +1,14 @@
 ### SEJA BEM VINDO 🤟
+<style>
+ .rod {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;     
+ }
+</style>
 
-<div style="display: flex
-            flex-direction: column
-            justify-content: center
-            align-items: center">
+<div class="rod">
 <div>
   <a href="https://github.com/RodrigoAzvdd">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RodrigoAzvdd&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
