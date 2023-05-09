@@ -1,5 +1,5 @@
 ### SEJA BEM VINDO 🤟
-<div class="rod">
+<div class="rod" style = "display: flex">
 <div>
   <a href="https://github.com/RodrigoAzvdd">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RodrigoAzvdd&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
