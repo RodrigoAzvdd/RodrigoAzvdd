@@ -1,13 +1,4 @@
 ### SEJA BEM VINDO 🤟
-<style>
- .rod {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;     
- }
-</style>
-
 <div class="rod">
 <div>
   <a href="https://github.com/RodrigoAzvdd">
